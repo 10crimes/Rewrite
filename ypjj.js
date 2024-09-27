@@ -4,7 +4,7 @@
  * 脚本写了解锁会员
  * 另外一个product_id是com.iuuapp.audiomaker.cloud.year
  * 这是容量10G的内购 需要自己替换product_id
- * 请勿闲鱼售卖..
+ * 我就是测试一下自己建的gist看看能不能用，当然不会去售卖，很鄙视那种乐色
 
 [rewrite_local]
 
