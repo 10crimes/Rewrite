@@ -3,7 +3,7 @@
 脚本作者：PayNe
 
 [rewrite_local]
-^http[s]?:\/\/api\.x-storm\.com(:\d{2,5})?\/app/.+$ url script-request-header https://raw.githubusercontent.com/paynexss/Scripts/main/Scripts/StormSnifferHeader.js
+^http[s]?:\/\/api\.x-storm\.com(:\d{2,5})?\/app/.+$ url script-request-header https://raw.githubusercontent.com/10crimes/Rewrite/refs/heads/main/StormSnifferHeader.js
 
 [mitm]
 hostname = *.x-storm.com
