@@ -20,7 +20,7 @@ var objc = JSON.parse($response.body);
 
     objc = {
   "environment": "Production",
-  "receipt": {
+  "receipt": {https://github.com/10crimes/Rewrite/blob/main/tubepod.js
     "receipt_type": "Production",
     "app_item_id": 6636469468,
     "receipt_creation_date": "2024-10-30 10:46:36 Etc\/GMT",
@@ -51,7 +51,7 @@ var objc = JSON.parse($response.body);
     "receipt_creation_date_pst": "2024-10-30 03:46:36 America\/Los_Angeles",
     "request_date": "2024-10-30 10:49:55 Etc\/GMT",
     "request_date_pst": "2024-10-30 03:49:55 America\/Los_Angeles",
-    "version_external_identifier": 885053149,
+    "version_external_identifier": 882010745,
     "request_date_ms": "1730285395742",
     "original_purchase_date_pst": "2024-10-30 03:42:25 America\/Los_Angeles",
     "application_version": "38",
